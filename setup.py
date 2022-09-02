@@ -58,7 +58,7 @@ setup(
         "PyRuSH==1.0.3.5",
         "pysbd==0.3.4",
         "jsonschema==4.15.0",
-        "requests>=2.13.0,<=2.28.1",
+        "requests>=2.13.0,<=2.16",
         "six>=1.14.0,<=1.16.0"
     ]
     + additional_installs,
